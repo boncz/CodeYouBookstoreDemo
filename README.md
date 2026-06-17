@@ -1,6 +1,6 @@
 # Bookstore Database Demo
 
-A classroom demo and assignment for Code:You Data Analysis students in Module 3. Starting from a single messy flat file, you'll design a relational database schema, build the database in Python, and write SQL queries to answer real business questions - then visualize the results with Matplotlib.
+A classroom demo for Code:You Data Analysis students in Module 3. Starting from a single messy flat file, you'll design a relational database schema, build the database in Python, and write SQL queries to answer real business questions - then visualize the results with Matplotlib.
 
 ---
 
