@@ -1,0 +1,251 @@
+,book_id,isbn,title,format,author_first,author_last,publisher_name,list_price,publication_year,genre_id,author_id
+0,182,978-529-93748-89-7,The Long Road Vol. 6,Paperback,Celeste,Ng,Macmillan Publishers,19.23,2006,1,1
+1,226,978-119-67807-50-6,The Lost Century Vol. 2,Hardcover,Erik,Larson,Hachette Book Group,28.46,2008,2,2
+2,215,978-578-75373-49-7,Empire Rising Vol. 7,Paperback,Isabel,Allende,Scholastic,34.94,2020,2,3
+3,236,978-856-14888-32-6,Turning Points Vol. 4,Hardcover,Jhumpa,Lahiri,Penguin Random House,31.17,2012,2,4
+4,211,978-161-30719-66-6,Empire Rising Vol. 3,Audiobook,N.K.,Jemisin,Hachette Book Group,19.1,2007,2,5
+5,175,978-936-36174-87-2,Against All Odds Vol. 7,Audiobook,Patrick,Rothfuss,Macmillan Publishers,26.09,2018,1,6
+6,115,978-923-70981-46-8,First Contact Vol. 3,Audiobook,Ocean,Vuong,Macmillan Publishers,17.67,2005,3,7
+7,89,978-518-69048-98-9,The Outer Reaches,Paperback,Colson,Whitehead,Hachette Book Group,27.76,2010,3,8
+8,24,978-789-95649-92-1,A Thousand Tomorrows Vol. 8,eBook,Zadie,Smith,Bloomsbury,23.39,2019,4,9
+9,219,978-386-91689-97-9,When Nations Fall Vol. 3,Hardcover,Roxane,Gay,Macmillan Publishers,22.13,2019,2,10
+10,58,978-752-46347-76-7,No Trace Found Vol. 2,Audiobook,Patrick,Rothfuss,Simon & Schuster,24.29,2012,5,6
+11,6,978-777-39871-47-1,The Quiet Hours Vol. 6,eBook,Jhumpa,Lahiri,Knopf,28.62,2007,4,4
+12,154,978-982-51033-83-6,Emberfall Vol. 2,Hardcover,Malcolm,Gladwell,Bloomsbury,23.82,2019,6,11
+13,183,978-627-85372-40-2,The Long Road Vol. 7,Audiobook,Malcolm,Gladwell,HarperCollins,29.28,2005,1,11
+14,118,978-108-84177-97-0,First Contact Vol. 6,eBook,Anthony,Doerr,Macmillan Publishers,9.74,2017,3,12
+15,134,978-115-56955-40-9,Shadow Realm Vol. 6,Paperback,Roxane,Gay,Macmillan Publishers,12.73,2005,6,10
+16,170,978-884-73736-34-3,Against All Odds Vol. 2,eBook,Ta-Nehisi,Coates,Penguin Random House,19.49,2011,1,13
+17,73,978-948-70258-29-6,Shadows Remain,Audiobook,Stephen,King,Bloomsbury,12.58,2016,5,14
+18,87,978-553-48974-85-6,Orbit Zero Vol. 7,Paperback,Sally,Rooney,Knopf,35.36,2017,3,15
+19,67,978-765-18993-93-0,The Cold Case Vol. 3,Hardcover,N.K.,Jemisin,Penguin Random House,42.99,2016,5,5
+20,231,978-453-29198-47-0,The Lost Century Vol. 7,Audiobook,Jhumpa,Lahiri,HarperCollins,39.45,2017,2,4
+21,76,978-599-37802-55-4,Shadows Remain Vol. 4,eBook,Zadie,Smith,Bloomsbury,9.97,2015,5,9
+22,10,978-680-51245-37-7,Between Two Worlds Vol. 2,eBook,Erik,Larson,Penguin Random House,22.63,2007,4,2
+23,88,978-740-37659-43-1,Orbit Zero Vol. 8,Hardcover,Jhumpa,Lahiri,Knopf,29.72,2008,3,4
+24,233,978-348-16653-95-8,Turning Points,eBook,Min Jin,Lee,Farrar Straus Giroux,13.66,2023,2,16
+25,216,978-697-56254-16-0,Empire Rising Vol. 8,Audiobook,Stephen,King,HarperCollins,26.18,2012,2,14
+26,33,978-407-69929-50-1,Edge of Home,Paperback,Michelle,Obama,Scholastic,18.02,2009,4,17
+27,243,978-163-97528-25-7,Your Best Self Vol. 3,Hardcover,Anthony,Doerr,Knopf,17.88,2016,7,12
+28,121,978-402-52823-63-2,The Iron Crown,Hardcover,Jhumpa,Lahiri,Vintage Books,28.7,2009,6,4
+29,19,978-652-36365-49-6,A Thousand Tomorrows Vol. 3,eBook,Roxane,Gay,Simon & Schuster,26.93,2018,4,10
+30,98,978-944-10150-94-8,Signal Lost Vol. 2,Hardcover,Kazuo,Ishiguro,Scholastic,41.98,2017,3,18
+31,36,978-370-25129-23-8,Edge of Home Vol. 4,eBook,Stephen,King,Farrar Straus Giroux,40.67,2008,4,14
+32,37,978-803-93130-43-8,Edge of Home Vol. 5,eBook,James,Patterson,Macmillan Publishers,29.55,2015,4,19
+33,125,978-791-40647-70-0,The Iron Crown Vol. 5,Audiobook,Ta-Nehisi,Coates,Macmillan Publishers,36.95,2016,6,13
+34,15,978-880-33416-74-1,Between Two Worlds Vol. 7,Paperback,Jhumpa,Lahiri,Bloomsbury,24.42,2013,4,4
+35,148,978-895-84395-86-1,The Last Mage Vol. 4,eBook,Donna,Tartt,Vintage Books,14.34,2014,6,20
+36,34,978-371-27361-54-1,Edge of Home Vol. 2,Hardcover,Stephen,King,Vintage Books,11.48,2011,4,14
+37,248,978-219-99167-36-9,Your Best Self Vol. 8,Paperback,Anthony,Doerr,Farrar Straus Giroux,14.58,2021,7,12
+38,52,978-584-32241-94-1,Dead by Dawn Vol. 4,Audiobook,Lauren,Groff,Scholastic,24.01,2011,5,21
+39,49,978-421-96951-25-4,Dead by Dawn,Hardcover,Ta-Nehisi,Coates,Bloomsbury,41.25,2015,5,13
+40,64,978-646-13534-60-9,No Trace Found Vol. 8,Paperback,Zadie,Smith,Bloomsbury,37.57,2009,5,9
+41,43,978-263-24168-58-0,The Last Clue Vol. 3,Audiobook,Colson,Whitehead,Scholastic,36.27,2012,5,8
+42,187,978-145-56176-79-5,Becoming More Vol. 3,Hardcover,Ta-Nehisi,Coates,Hachette Book Group,35.22,2015,1,13
+43,228,978-570-79878-53-8,The Lost Century Vol. 4,Audiobook,Roxane,Gay,Scholastic,26.86,2015,2,10
+44,44,978-412-39831-38-0,The Last Clue Vol. 4,Paperback,Mary,Oliver,Vintage Books,15.78,2019,5,22
+45,97,978-137-69614-21-5,Signal Lost,eBook,David,Sedaris,Vintage Books,31.52,2017,3,23
+46,13,978-710-71348-77-4,Between Two Worlds Vol. 5,Audiobook,James,Patterson,Simon & Schuster,29.27,2017,4,19
+47,177,978-950-67340-21-3,The Long Road,eBook,Malcolm,Gladwell,Simon & Schuster,24.27,2021,1,11
+48,141,978-256-72163-18-1,Blood and Stone Vol. 5,eBook,Isabel,Allende,HarperCollins,23.5,2013,6,3
+49,178,978-505-75799-57-3,The Long Road Vol. 2,eBook,Erik,Larson,Vintage Books,40.63,2018,1,2
+50,31,978-513-25713-82-3,The Glass Garden Vol. 7,Paperback,Andy,Weir,HarperCollins,11.32,2007,4,24
+51,51,978-393-37549-65-9,Dead by Dawn Vol. 3,eBook,Zadie,Smith,Simon & Schuster,22.8,2005,5,9
+52,92,978-549-26299-69-4,The Outer Reaches Vol. 4,eBook,Toni,Morrison,Simon & Schuster,29.22,2023,3,25
+53,128,978-529-86983-29-6,The Iron Crown Vol. 8,Paperback,Haruki,Murakami,Farrar Straus Giroux,22.2,2016,6,26
+54,1,978-242-23434-96-8,The Quiet Hours,Hardcover,Ocean,Vuong,HarperCollins,34.2,2012,4,7
+55,172,978-285-91885-31-7,Against All Odds Vol. 4,Paperback,Zadie,Smith,Scholastic,29.3,2009,1,9
+56,20,978-353-39451-18-5,A Thousand Tomorrows Vol. 4,Audiobook,Zadie,Smith,Scholastic,39.58,2019,4,9
+57,224,978-585-44803-93-9,When Nations Fall Vol. 8,Audiobook,Zadie,Smith,HarperCollins,28.84,2005,2,9
+58,81,978-296-38361-71-4,Orbit Zero,eBook,Isabel,Allende,Hachette Book Group,13.05,2022,3,3
+59,3,978-928-10851-30-6,The Quiet Hours Vol. 3,Audiobook,Roxane,Gay,Hachette Book Group,16.48,2023,4,10
+60,96,978-978-31079-52-6,The Outer Reaches Vol. 8,eBook,Malcolm,Gladwell,Vintage Books,22.87,2015,3,11
+61,247,978-163-81781-74-3,Your Best Self Vol. 7,eBook,Andy,Weir,Vintage Books,11.65,2023,7,24
+62,218,978-683-83638-34-5,When Nations Fall Vol. 2,Audiobook,Isabel,Allende,Scholastic,21.43,2017,2,3
+63,29,978-159-85914-79-0,The Glass Garden Vol. 5,Audiobook,David,Sedaris,Farrar Straus Giroux,14.25,2014,4,23
+64,27,978-516-73653-71-3,The Glass Garden Vol. 3,Hardcover,Ocean,Vuong,Farrar Straus Giroux,41.94,2012,4,7
+65,174,978-476-98907-83-7,Against All Odds Vol. 6,eBook,Roxane,Gay,Hachette Book Group,41.82,2020,1,10
+66,157,978-897-32037-19-8,Emberfall Vol. 5,eBook,Malcolm,Gladwell,Bloomsbury,34.35,2012,6,11
+67,124,978-370-80329-25-7,The Iron Crown Vol. 4,eBook,Mary,Oliver,Farrar Straus Giroux,12.06,2017,6,22
+68,17,978-345-17592-40-9,A Thousand Tomorrows,Hardcover,Chimamanda,Adichie,Vintage Books,12.79,2016,4,27
+69,223,978-935-12180-57-5,When Nations Fall Vol. 7,Audiobook,Chimamanda,Adichie,Farrar Straus Giroux,33.09,2014,2,27
+70,159,978-281-92306-73-7,Emberfall Vol. 7,eBook,Celeste,Ng,Simon & Schuster,15.7,2009,6,1
+71,39,978-674-11267-24-1,Edge of Home Vol. 7,Paperback,Ocean,Vuong,Macmillan Publishers,34.19,2022,4,7
+72,240,978-790-35318-32-9,Turning Points Vol. 8,Hardcover,David,Sedaris,Simon & Schuster,34.04,2014,2,23
+73,62,978-871-61116-63-8,No Trace Found Vol. 6,Audiobook,Mary,Oliver,Knopf,25.21,2016,5,22
+74,5,978-227-59615-20-8,The Quiet Hours Vol. 5,eBook,Mary,Oliver,Scholastic,36.43,2019,4,22
+75,164,978-163-69050-23-5,A Life Remembered Vol. 4,eBook,Ocean,Vuong,Hachette Book Group,29.56,2021,1,7
+76,210,978-742-81509-47-4,Empire Rising Vol. 2,Audiobook,Ocean,Vuong,Hachette Book Group,30.01,2005,2,7
+77,116,978-754-65615-98-4,First Contact Vol. 4,Audiobook,Colson,Whitehead,HarperCollins,41.13,2023,3,8
+78,230,978-591-55718-81-4,The Lost Century Vol. 6,Paperback,Richard,Osman,Macmillan Publishers,32.46,2020,2,28
+79,191,978-495-54438-33-7,Becoming More Vol. 7,eBook,Kazuo,Ishiguro,HarperCollins,23.85,2017,1,18
+80,184,978-526-34551-95-1,The Long Road Vol. 8,Hardcover,Jhumpa,Lahiri,Bloomsbury,29.89,2012,1,4
+81,238,978-565-94058-79-8,Turning Points Vol. 6,Hardcover,Jhumpa,Lahiri,Knopf,40.56,2015,2,4
+82,245,978-565-89395-57-6,Your Best Self Vol. 5,Paperback,Lauren,Groff,Hachette Book Group,41.54,2020,7,21
+83,189,978-423-50642-75-6,Becoming More Vol. 5,Paperback,Toni,Morrison,Macmillan Publishers,10.48,2011,1,25
+84,188,978-286-27675-18-7,Becoming More Vol. 4,Audiobook,Erik,Larson,Simon & Schuster,42.34,2020,1,2
+85,156,978-546-87184-61-8,Emberfall Vol. 4,Hardcover,Erik,Larson,Scholastic,23.84,2008,6,2
+86,235,978-766-36143-46-5,Turning Points Vol. 3,Audiobook,Roxane,Gay,Simon & Schuster,31.19,2020,2,10
+87,227,978-822-28098-76-3,The Lost Century Vol. 3,Paperback,James,Patterson,Bloomsbury,22.94,2020,2,19
+88,221,978-923-72094-76-7,When Nations Fall Vol. 5,Hardcover,Andy,Weir,Bloomsbury,10.53,2009,2,24
+89,56,978-968-25906-68-2,Dead by Dawn Vol. 8,Audiobook,Delia,Owens,Simon & Schuster,10.7,2012,5,29
+90,176,978-205-77621-25-4,Against All Odds Vol. 8,Hardcover,Mary,Oliver,Macmillan Publishers,30.79,2016,1,22
+91,250,978-122-61897-42-0,The Habit Code Vol. 2,Audiobook,Toni,Morrison,Farrar Straus Giroux,31.86,2014,7,25
+92,83,978-399-26551-91-7,Orbit Zero Vol. 3,Paperback,Stephen,King,Farrar Straus Giroux,18.32,2006,3,14
+93,147,978-864-79531-37-6,The Last Mage Vol. 3,Audiobook,Mary,Oliver,Simon & Schuster,11.36,2005,6,22
+94,74,978-576-67091-85-4,Shadows Remain Vol. 2,eBook,Colson,Whitehead,Farrar Straus Giroux,29.93,2022,5,8
+95,69,978-271-89415-87-1,The Cold Case Vol. 5,Paperback,Zadie,Smith,HarperCollins,24.8,2013,5,9
+96,193,978-181-52981-94-4,In Their Own Words,Paperback,Donna,Tartt,Knopf,27.54,2015,1,20
+97,100,978-548-73532-25-0,Signal Lost Vol. 4,Paperback,Richard,Osman,Penguin Random House,18.07,2009,3,28
+98,166,978-153-92691-92-5,A Life Remembered Vol. 6,eBook,Ta-Nehisi,Coates,Scholastic,22.16,2015,1,13
+99,85,978-802-17026-29-2,Orbit Zero Vol. 5,Audiobook,Celeste,Ng,HarperCollins,25.71,2023,3,1
+100,158,978-844-94599-28-3,Emberfall Vol. 6,Paperback,Ocean,Vuong,HarperCollins,39.79,2016,6,7
+101,41,978-782-23473-55-8,The Last Clue,Hardcover,Jhumpa,Lahiri,Scholastic,39.55,2011,5,4
+102,90,978-172-40595-43-9,The Outer Reaches Vol. 2,Hardcover,N.K.,Jemisin,Macmillan Publishers,16.86,2014,3,5
+103,93,978-182-88385-15-6,The Outer Reaches Vol. 5,eBook,David,Sedaris,Bloomsbury,26.01,2020,3,23
+104,122,978-363-73156-47-5,The Iron Crown Vol. 2,eBook,Michelle,Obama,Simon & Schuster,27.04,2013,6,17
+105,63,978-597-13804-59-5,No Trace Found Vol. 7,Paperback,Isabel,Allende,Farrar Straus Giroux,25.59,2013,5,3
+106,99,978-874-75338-90-7,Signal Lost Vol. 3,Hardcover,Patrick,Rothfuss,Bloomsbury,15.37,2016,3,6
+107,234,978-202-99285-27-0,Turning Points Vol. 2,Hardcover,Delia,Owens,Hachette Book Group,12.4,2015,2,29
+108,137,978-802-24150-72-7,Blood and Stone,Hardcover,Patrick,Rothfuss,Penguin Random House,42.94,2017,6,6
+109,162,978-951-47627-19-1,A Life Remembered Vol. 2,Audiobook,Malcolm,Gladwell,Macmillan Publishers,24.36,2006,1,11
+110,53,978-330-36100-28-0,Dead by Dawn Vol. 5,eBook,Jhumpa,Lahiri,Farrar Straus Giroux,12.17,2012,5,4
+111,46,978-282-86099-43-0,The Last Clue Vol. 6,eBook,Gillian,Flynn,Farrar Straus Giroux,40.92,2008,5,30
+112,104,978-906-76550-44-0,Signal Lost Vol. 8,Hardcover,Isabel,Allende,Simon & Schuster,18.38,2018,3,3
+113,78,978-911-12260-21-4,Shadows Remain Vol. 6,Audiobook,Roxane,Gay,Hachette Book Group,30.95,2020,5,10
+114,102,978-833-48254-75-4,Signal Lost Vol. 6,Audiobook,Delia,Owens,HarperCollins,41.19,2009,3,29
+115,35,978-820-49651-88-8,Edge of Home Vol. 3,eBook,Haruki,Murakami,Hachette Book Group,18.68,2019,4,26
+116,77,978-187-41635-62-7,Shadows Remain Vol. 5,eBook,Chimamanda,Adichie,Macmillan Publishers,27.89,2021,5,27
+117,101,978-114-82384-62-1,Signal Lost Vol. 5,Paperback,Ocean,Vuong,Knopf,33.12,2014,3,7
+118,192,978-920-20828-64-1,Becoming More Vol. 8,eBook,David,Sedaris,Vintage Books,40.42,2021,1,23
+119,50,978-230-35144-63-6,Dead by Dawn Vol. 2,Audiobook,Andy,Weir,Macmillan Publishers,20.08,2014,5,24
+120,146,978-447-56009-10-2,The Last Mage Vol. 2,eBook,Stephen,King,Knopf,9.97,2013,6,14
+121,112,978-147-52516-17-4,Nova Protocol Vol. 8,Hardcover,Donna,Tartt,HarperCollins,24.08,2014,3,20
+122,21,978-824-92719-17-3,A Thousand Tomorrows Vol. 5,Paperback,Stephen,King,Knopf,29.0,2005,4,14
+123,55,978-804-10726-23-6,Dead by Dawn Vol. 7,Audiobook,David,Sedaris,Bloomsbury,22.58,2009,5,23
+124,60,978-165-64377-62-5,No Trace Found Vol. 4,Paperback,Malcolm,Gladwell,Simon & Schuster,16.85,2009,5,11
+125,68,978-256-41266-26-7,The Cold Case Vol. 4,Paperback,Richard,Osman,Penguin Random House,15.77,2005,5,28
+126,168,978-232-87993-20-4,A Life Remembered Vol. 8,Paperback,Chimamanda,Adichie,HarperCollins,40.16,2014,1,27
+127,133,978-102-46342-28-2,Shadow Realm Vol. 5,Paperback,Anthony,Doerr,Hachette Book Group,20.16,2009,6,12
+128,91,978-252-44816-28-1,The Outer Reaches Vol. 3,Audiobook,Zadie,Smith,Hachette Book Group,12.89,2012,3,9
+129,2,978-338-76237-87-0,The Quiet Hours Vol. 2,Audiobook,Malcolm,Gladwell,Knopf,10.07,2007,4,11
+130,48,978-632-80575-97-3,The Last Clue Vol. 8,Paperback,Haruki,Murakami,Knopf,17.65,2018,5,26
+131,30,978-973-79615-30-0,The Glass Garden Vol. 6,Hardcover,Isabel,Allende,Scholastic,10.69,2020,4,3
+132,152,978-396-53007-25-0,The Last Mage Vol. 8,eBook,Stephen,King,Hachette Book Group,41.13,2009,6,14
+133,249,978-625-64450-68-9,The Habit Code,Audiobook,N.K.,Jemisin,HarperCollins,36.49,2019,7,5
+134,160,978-750-91857-51-5,Emberfall Vol. 8,Audiobook,Richard,Osman,Knopf,32.15,2023,6,28
+135,179,978-959-95191-52-2,The Long Road Vol. 3,eBook,Gillian,Flynn,HarperCollins,16.62,2015,1,30
+136,203,978-726-21300-18-4,The Forgotten War Vol. 3,eBook,Roxane,Gay,Knopf,24.88,2022,2,10
+137,123,978-331-98647-96-6,The Iron Crown Vol. 3,Audiobook,Sally,Rooney,HarperCollins,41.73,2009,6,15
+138,105,978-595-55236-52-8,Nova Protocol,Audiobook,Jhumpa,Lahiri,Macmillan Publishers,38.41,2019,3,4
+139,150,978-624-24918-54-6,The Last Mage Vol. 6,Audiobook,N.K.,Jemisin,Knopf,23.07,2011,6,5
+140,145,978-885-91490-88-8,The Last Mage,eBook,Ta-Nehisi,Coates,HarperCollins,28.51,2018,6,13
+141,194,978-557-15551-55-9,In Their Own Words Vol. 2,Audiobook,Jhumpa,Lahiri,Vintage Books,14.66,2019,1,4
+142,65,978-286-16590-43-6,The Cold Case,Hardcover,Anthony,Doerr,Penguin Random House,30.84,2009,5,12
+143,202,978-342-74752-13-5,The Forgotten War Vol. 2,Paperback,Sally,Rooney,Scholastic,13.12,2011,2,15
+144,181,978-844-89807-77-6,The Long Road Vol. 5,Hardcover,Stephen,King,HarperCollins,17.69,2009,1,14
+145,206,978-265-52291-38-5,The Forgotten War Vol. 6,Hardcover,Andy,Weir,Penguin Random House,26.61,2014,2,24
+146,23,978-516-34957-22-1,A Thousand Tomorrows Vol. 7,Audiobook,James,Patterson,Knopf,17.25,2020,4,19
+147,131,978-778-37801-92-9,Shadow Realm Vol. 3,Hardcover,Kazuo,Ishiguro,Hachette Book Group,41.26,2019,6,18
+148,173,978-725-47346-67-3,Against All Odds Vol. 5,eBook,Toni,Morrison,Bloomsbury,31.99,2012,1,25
+149,4,978-194-59797-22-5,The Quiet Hours Vol. 4,Paperback,Chimamanda,Adichie,Macmillan Publishers,16.31,2015,4,27
+150,213,978-373-68929-41-2,Empire Rising Vol. 5,Hardcover,James,Patterson,Scholastic,19.84,2019,2,19
+151,106,978-293-41300-83-6,Nova Protocol Vol. 2,Audiobook,Richard,Osman,Farrar Straus Giroux,24.47,2015,3,28
+152,214,978-986-30932-51-9,Empire Rising Vol. 6,eBook,Celeste,Ng,Penguin Random House,41.13,2018,2,1
+153,126,978-164-93283-69-4,The Iron Crown Vol. 6,eBook,Lauren,Groff,Farrar Straus Giroux,40.11,2012,6,21
+154,54,978-524-92544-83-3,Dead by Dawn Vol. 6,Audiobook,Toni,Morrison,Hachette Book Group,29.77,2007,5,25
+155,94,978-701-12719-96-4,The Outer Reaches Vol. 6,eBook,Isabel,Allende,Scholastic,9.87,2012,3,3
+156,185,978-905-76535-80-0,Becoming More,Hardcover,Andy,Weir,Scholastic,41.41,2022,1,24
+157,209,978-146-94076-83-4,Empire Rising,Hardcover,Chimamanda,Adichie,Knopf,37.05,2005,2,27
+158,143,978-394-88696-49-5,Blood and Stone Vol. 7,Hardcover,Roxane,Gay,Scholastic,22.96,2018,6,10
+159,138,978-381-91830-91-9,Blood and Stone Vol. 2,eBook,Malcolm,Gladwell,HarperCollins,29.67,2007,6,11
+160,155,978-432-32527-89-7,Emberfall Vol. 3,Audiobook,Anthony,Doerr,Bloomsbury,18.83,2017,6,12
+161,25,978-296-34931-78-7,The Glass Garden,eBook,Toni,Morrison,Bloomsbury,36.21,2008,4,25
+162,198,978-216-13396-33-7,In Their Own Words Vol. 6,eBook,James,Patterson,Farrar Straus Giroux,22.52,2013,1,19
+163,59,978-378-54020-50-8,No Trace Found Vol. 3,eBook,Ocean,Vuong,Hachette Book Group,23.95,2014,5,7
+164,9,978-801-52504-17-3,Between Two Worlds,Audiobook,Colson,Whitehead,Vintage Books,18.17,2022,4,8
+165,207,978-228-91922-48-9,The Forgotten War Vol. 7,Hardcover,Andy,Weir,Macmillan Publishers,17.51,2022,2,24
+166,205,978-701-33850-26-6,The Forgotten War Vol. 5,eBook,Patrick,Rothfuss,Vintage Books,13.35,2022,2,6
+167,161,978-705-17362-55-8,A Life Remembered,Hardcover,James,Patterson,Vintage Books,24.93,2014,1,19
+168,208,978-275-96341-89-9,The Forgotten War Vol. 8,Paperback,Roxane,Gay,HarperCollins,29.11,2023,2,10
+169,47,978-720-77033-24-6,The Last Clue Vol. 7,Audiobook,Celeste,Ng,Knopf,20.74,2015,5,1
+170,80,978-413-42951-39-1,Shadows Remain Vol. 8,eBook,Donna,Tartt,Farrar Straus Giroux,20.95,2019,5,20
+171,171,978-889-80748-77-0,Against All Odds Vol. 3,Hardcover,James,Patterson,Simon & Schuster,19.05,2008,1,19
+172,239,978-266-70150-92-4,Turning Points Vol. 7,Audiobook,N.K.,Jemisin,Simon & Schuster,18.27,2008,2,5
+173,180,978-877-71487-67-9,The Long Road Vol. 4,eBook,James,Patterson,Penguin Random House,40.18,2020,1,19
+174,82,978-332-57301-32-4,Orbit Zero Vol. 2,eBook,Isabel,Allende,Knopf,42.33,2011,3,3
+175,186,978-865-12128-55-1,Becoming More Vol. 2,Hardcover,Gillian,Flynn,Vintage Books,30.6,2016,1,30
+176,113,978-679-99364-33-2,First Contact,Audiobook,Ta-Nehisi,Coates,Scholastic,13.94,2021,3,13
+177,18,978-228-26828-94-7,A Thousand Tomorrows Vol. 2,Audiobook,Malcolm,Gladwell,HarperCollins,36.73,2022,4,11
+178,204,978-228-51553-92-1,The Forgotten War Vol. 4,Audiobook,Gillian,Flynn,Vintage Books,35.14,2023,2,30
+179,217,978-210-66482-27-4,When Nations Fall,Audiobook,Jhumpa,Lahiri,Vintage Books,18.71,2005,2,4
+180,212,978-982-51853-54-6,Empire Rising Vol. 4,Paperback,N.K.,Jemisin,Vintage Books,20.56,2009,2,5
+181,220,978-474-28909-35-9,When Nations Fall Vol. 4,Hardcover,Celeste,Ng,Simon & Schuster,22.38,2015,2,1
+182,14,978-887-94012-53-1,Between Two Worlds Vol. 6,Hardcover,Roxane,Gay,Penguin Random House,32.17,2022,4,10
+183,40,978-251-66333-26-0,Edge of Home Vol. 8,Hardcover,Haruki,Murakami,Simon & Schuster,37.37,2023,4,26
+184,75,978-868-70910-82-9,Shadows Remain Vol. 3,Hardcover,Chimamanda,Adichie,Hachette Book Group,18.47,2019,5,27
+185,135,978-638-24896-18-7,Shadow Realm Vol. 7,Paperback,Chimamanda,Adichie,Penguin Random House,18.01,2009,6,27
+186,109,978-258-19807-70-4,Nova Protocol Vol. 5,Hardcover,Andy,Weir,Vintage Books,33.55,2018,3,24
+187,153,978-612-83233-95-5,Emberfall,Paperback,N.K.,Jemisin,Bloomsbury,13.38,2022,6,5
+188,237,978-290-47941-14-0,Turning Points Vol. 5,Hardcover,Haruki,Murakami,Simon & Schuster,42.89,2017,2,26
+189,140,978-447-69441-61-6,Blood and Stone Vol. 4,Paperback,Celeste,Ng,HarperCollins,23.61,2012,6,1
+190,232,978-319-36485-78-4,The Lost Century Vol. 8,eBook,Jhumpa,Lahiri,HarperCollins,40.41,2013,2,4
+191,86,978-671-64548-87-9,Orbit Zero Vol. 6,eBook,Sally,Rooney,Knopf,11.89,2012,3,15
+192,129,978-806-58566-37-7,Shadow Realm,Audiobook,Ocean,Vuong,HarperCollins,29.92,2013,6,7
+193,110,978-790-79942-58-5,Nova Protocol Vol. 6,Audiobook,Chimamanda,Adichie,Knopf,31.08,2015,3,27
+194,114,978-697-28758-39-7,First Contact Vol. 2,Audiobook,Colson,Whitehead,HarperCollins,30.06,2012,3,8
+195,42,978-919-33206-62-0,The Last Clue Vol. 2,Paperback,Haruki,Murakami,Bloomsbury,40.47,2012,5,26
+196,199,978-319-90199-46-7,In Their Own Words Vol. 7,Hardcover,Andy,Weir,Bloomsbury,17.89,2013,1,24
+197,225,978-744-91230-58-2,The Lost Century,Hardcover,Anthony,Doerr,Hachette Book Group,28.83,2010,2,12
+198,11,978-651-44438-84-6,Between Two Worlds Vol. 3,Paperback,Gillian,Flynn,Vintage Books,18.0,2012,4,30
+199,244,978-220-93717-47-5,Your Best Self Vol. 4,Audiobook,Jhumpa,Lahiri,Simon & Schuster,32.32,2014,7,4
+200,197,978-480-68188-19-9,In Their Own Words Vol. 5,Hardcover,Gillian,Flynn,Knopf,29.56,2019,1,30
+201,151,978-325-61807-86-0,The Last Mage Vol. 7,Audiobook,Celeste,Ng,Macmillan Publishers,26.91,2014,6,1
+202,149,978-378-68079-94-6,The Last Mage Vol. 5,Paperback,Haruki,Murakami,Penguin Random House,14.34,2006,6,26
+203,32,978-678-78522-50-4,The Glass Garden Vol. 8,Hardcover,Anthony,Doerr,Knopf,30.05,2018,4,12
+204,107,978-495-96991-93-2,Nova Protocol Vol. 3,Hardcover,Delia,Owens,Bloomsbury,19.81,2020,3,29
+205,201,978-971-30644-99-2,The Forgotten War,Hardcover,Zadie,Smith,Scholastic,27.69,2014,2,9
+206,7,978-954-57819-30-5,The Quiet Hours Vol. 7,Hardcover,Mary,Oliver,Hachette Book Group,21.91,2019,4,22
+207,71,978-813-49529-97-9,The Cold Case Vol. 7,Hardcover,David,Sedaris,Hachette Book Group,29.12,2012,5,23
+208,8,978-750-32431-78-3,The Quiet Hours Vol. 8,eBook,Ta-Nehisi,Coates,Hachette Book Group,32.85,2007,4,13
+209,120,978-199-92242-92-0,First Contact Vol. 8,eBook,Delia,Owens,Hachette Book Group,32.03,2009,3,29
+210,190,978-465-16265-93-5,Becoming More Vol. 6,Audiobook,Erik,Larson,Farrar Straus Giroux,17.6,2011,1,2
+211,119,978-918-40162-87-5,First Contact Vol. 7,Audiobook,Min Jin,Lee,Knopf,37.31,2014,3,16
+212,16,978-897-79514-10-9,Between Two Worlds Vol. 8,Paperback,Mary,Oliver,Macmillan Publishers,14.19,2010,4,22
+213,222,978-502-90805-48-9,When Nations Fall Vol. 6,Paperback,James,Patterson,Knopf,20.14,2015,2,19
+214,130,978-760-57012-17-6,Shadow Realm Vol. 2,eBook,Patrick,Rothfuss,Hachette Book Group,12.37,2016,6,6
+215,72,978-170-76317-92-5,The Cold Case Vol. 8,Hardcover,Sally,Rooney,HarperCollins,20.79,2018,5,15
+216,61,978-888-86556-99-0,No Trace Found Vol. 5,Audiobook,Roxane,Gay,Vintage Books,11.11,2018,5,10
+217,241,978-785-22502-33-2,Your Best Self,Audiobook,Mary,Oliver,Bloomsbury,26.51,2007,7,22
+218,246,978-353-99173-86-1,Your Best Self Vol. 6,Audiobook,David,Sedaris,Farrar Straus Giroux,34.74,2011,7,23
+219,117,978-342-59986-83-5,First Contact Vol. 5,Paperback,Patrick,Rothfuss,Macmillan Publishers,42.97,2020,3,6
+220,66,978-870-65255-42-1,The Cold Case Vol. 2,Audiobook,Chimamanda,Adichie,Hachette Book Group,20.1,2017,5,27
+221,139,978-564-76263-87-6,Blood and Stone Vol. 3,Audiobook,Roxane,Gay,Scholastic,42.81,2021,6,10
+222,200,978-830-68341-21-5,In Their Own Words Vol. 8,Paperback,Michelle,Obama,HarperCollins,37.99,2019,1,17
+223,142,978-669-17861-85-8,Blood and Stone Vol. 6,Hardcover,Erik,Larson,HarperCollins,23.67,2016,6,2
+224,165,978-636-78517-88-2,A Life Remembered Vol. 5,Paperback,David,Sedaris,HarperCollins,10.32,2019,1,23
+225,12,978-605-21915-16-1,Between Two Worlds Vol. 4,Audiobook,Haruki,Murakami,Knopf,21.3,2009,4,26
+226,45,978-385-56025-92-8,The Last Clue Vol. 5,Audiobook,Zadie,Smith,Hachette Book Group,20.15,2007,5,9
+227,196,978-897-94562-56-5,In Their Own Words Vol. 4,Audiobook,James,Patterson,Knopf,10.17,2007,1,19
+228,84,978-288-16734-42-7,Orbit Zero Vol. 4,eBook,Celeste,Ng,Penguin Random House,24.95,2019,3,1
+229,108,978-990-23154-66-1,Nova Protocol Vol. 4,Paperback,N.K.,Jemisin,Penguin Random House,26.07,2023,3,5
+230,57,978-934-76162-64-8,No Trace Found,eBook,Sally,Rooney,Vintage Books,41.29,2019,5,15
+231,195,978-625-99051-30-0,In Their Own Words Vol. 3,Hardcover,Donna,Tartt,Macmillan Publishers,11.54,2017,1,20
+232,38,978-145-10464-52-2,Edge of Home Vol. 6,Hardcover,N.K.,Jemisin,Macmillan Publishers,12.13,2018,4,5
+233,144,978-967-24184-54-8,Blood and Stone Vol. 8,Paperback,Celeste,Ng,Knopf,14.25,2020,6,1
+234,79,978-584-82544-77-5,Shadows Remain Vol. 7,Paperback,Delia,Owens,Bloomsbury,19.4,2023,5,29
+235,132,978-310-18992-80-3,Shadow Realm Vol. 4,eBook,Stephen,King,Penguin Random House,17.27,2009,6,14
+236,242,978-557-44995-52-4,Your Best Self Vol. 2,Paperback,N.K.,Jemisin,Scholastic,9.22,2017,7,5
+237,111,978-800-47667-39-1,Nova Protocol Vol. 7,Hardcover,Ocean,Vuong,Vintage Books,29.98,2012,3,7
+238,169,978-761-97878-64-8,Against All Odds,eBook,Roxane,Gay,Bloomsbury,36.64,2021,1,10
+239,26,978-553-82132-22-0,The Glass Garden Vol. 2,Paperback,James,Patterson,Bloomsbury,18.46,2012,4,19
+240,167,978-358-96057-87-2,A Life Remembered Vol. 7,Hardcover,Malcolm,Gladwell,Scholastic,27.96,2017,1,11
+241,163,978-856-15376-67-9,A Life Remembered Vol. 3,Audiobook,Lauren,Groff,Knopf,24.72,2022,1,21
+242,95,978-285-86720-65-7,The Outer Reaches Vol. 7,Paperback,Anthony,Doerr,Penguin Random House,24.99,2019,3,12
+243,127,978-604-25220-22-3,The Iron Crown Vol. 7,Hardcover,Ocean,Vuong,Bloomsbury,13.74,2006,6,7
+244,28,978-371-69638-46-6,The Glass Garden Vol. 4,Hardcover,Mary,Oliver,Bloomsbury,14.59,2005,4,22
+245,22,978-785-73624-37-8,A Thousand Tomorrows Vol. 6,eBook,Malcolm,Gladwell,Penguin Random House,11.4,2012,4,11
+246,103,978-492-34983-86-8,Signal Lost Vol. 7,Audiobook,Donna,Tartt,Vintage Books,17.28,2022,3,20
+247,70,978-689-98781-58-6,The Cold Case Vol. 6,eBook,Richard,Osman,Simon & Schuster,12.67,2005,5,28
+248,229,978-671-49124-38-4,The Lost Century Vol. 5,Audiobook,Ta-Nehisi,Coates,Macmillan Publishers,15.53,2012,2,13
+249,136,978-144-96363-76-4,Shadow Realm Vol. 8,Hardcover,Patrick,Rothfuss,Scholastic,24.36,2012,6,6

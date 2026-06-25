@@ -1,0 +1,13 @@
+,store_id,store_name,store_city,store_state,store_region
+0,1,Prairie Lights,Iowa City,IA,Midwest
+1,2,Powell's Books,Portland,OR,Pacific
+2,3,BookPeople,Austin,TX,South
+3,4,Left Bank Books,St. Louis,MO,Midwest
+4,5,Malaprop's Bookstore,Asheville,NC,South
+5,6,Elliot Bay Book Co,Seattle,WA,Pacific
+6,7,Harvard Book Store,Cambridge,MA,Northeast
+7,8,Books & Books,Coral Gables,FL,South
+8,9,The Booksmith,San Francisco,CA,Pacific
+9,10,Tattered Cover,Denver,CO,Mountain
+10,11,Kepler's Books,Menlo Park,CA,Pacific
+11,12,The Strand,New York,NY,Northeast
